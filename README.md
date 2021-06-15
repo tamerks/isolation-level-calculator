@@ -1,5 +1,4 @@
 # isolation-level-calculator
-Advanced Topics in Database Systems Term Project
 
 Requirements of the project was explained in the "SE 308 Term Project 1 of 2.pdf"
 
